@@ -7,7 +7,7 @@ Like someone's work? Want to support them? You can do that too with a system of 
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Node][Node.js]][Node-url]
-* [![Express][Express.js]][Express-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
+* React.js
+* Node.js
+* Express.js
+* MongoDB
